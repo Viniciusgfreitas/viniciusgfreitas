@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá Pessoas!!! 👋
+
+<p> 👀 About me: Sou um Desenvolvedor de Software apaixonado por tecnologia e empreendimentos; Tenho um grande interesse na área de Inteligência artificial.</p>
+<p> 🧠 Artificial Intelligence and the future!</p>
+
 
 <!--
 **Viniciusgfreitas/viniciusgfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
