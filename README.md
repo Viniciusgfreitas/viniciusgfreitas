@@ -1,7 +1,9 @@
-### Olá Pessoas!!! 👋
+### Olá Pessoas!!! 👋 | Hello people!!! 👋
 
-<p> 👀 About me: Sou um Desenvolvedor de Software apaixonado por tecnologia e empreendimentos;</p>
+<p> 👀 Sobre mim: Sou um Desenvolvedor de Software Full-Stack Web apaixonado por tecnologia e empreendedorismo;</p>
+<p> 👀 About me: I am a Full-Stack Web Software Developer passionate about technology and entrepreneurship;</p>
 
+<p> 🐱‍👤 Contato | Contact: <span>viniciusdevgf@outlook.com</span></p>
 
 
 <!--
