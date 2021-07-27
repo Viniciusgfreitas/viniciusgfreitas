@@ -1,9 +1,9 @@
-### <h1> Olá Pessoas!!! 👋 | Hello people!!! 👋 </h1>
+### <h1>👋 Hi! Welcome my Github Page.</h1>
 
-<p> 👀 Sobre mim: Sou um Desenvolvedor de Software Full-Stack Web apaixonado por tecnologia e empreendedorismo;</p>
+<!-- <p> 👀 Sobre mim: Sou um Desenvolvedor de Software Full-Stack Web apaixonado por tecnologia e empreendedorismo;</p> -->
 <p> 👀 About me: I am a Full-Stack Web Software Developer passionate about technology and entrepreneurship;</p>
 
-<p> 🐱‍👤 Contato | Contact: <span>viniciusdevgf@outlook.com</span></p>
+<p> 🐱‍👤 Contact: <span>viniciusdevgf@outlook.com</span></p>
 <!--
 **Viniciusgfreitas/viniciusgfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
