@@ -28,7 +28,7 @@
   alt="Logo React"
   height="32" width="45">
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/viniciusgfreitas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusgfreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgfreitas&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -42,3 +42,5 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Viniciusgfreitas)](https://github.com/Viniciusgfreitas)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-gon%C3%A7alves-freitas/)](https://www.linkedin.com/in/vinicius-gon%C3%A7alves-freitas/)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:viniciusdevgf@outlook.com)](mailto:viniciusdevgf@outlook.com)
+
+<hr>
