@@ -23,10 +23,10 @@
   src="https://img.icons8.com/color/452/nodejs.png"
   alt="Logo NodeJs"
   height="32" width="32">
-<img 
+<!--<img 
   src="https://user-images.githubusercontent.com/48767920/127253446-62a395d6-64ad-467a-a1a9-670ac66e9c02.png"
   alt="Logo React"
-  height="32" width="45">
+  height="32" width="45"> -->
 <div>
   <a href="https://github.com/viniciusgfreitas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusgfreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
