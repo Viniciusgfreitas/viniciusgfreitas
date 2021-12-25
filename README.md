@@ -1,4 +1,48 @@
 ### <h1> ✋ Hi I'm Vinicius Freitas </h1>
+<!-- Dados Pessoais / Redes sociais-->
+<div style="display: flex; flex-direction: column;">
+  <!-- Instagram -->
+  <p>
+    <a href="https://www.instagram.com/vinicius.gfreitas/">
+      <img
+        src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" 
+        alt="Logo HTML5"
+        height="32" width="30">
+    </a>
+    <strong align="center">@vinicius.gfreitas</strong>
+  </p>
+  <!-- Github -->
+  <a href="https://www.google.com/">
+    <img
+      src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" 
+      alt="Logo HTML5"
+      height="32" width="30">
+  </a>
+  <!-- Linkedin -->
+  <a href="https://www.google.com/">
+    <img
+      src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" 
+      alt="Logo HTML5"
+      height="32" width="30">
+  </a>
+   <!-- Outlook -->
+  <a href="https://www.google.com/">
+    <img
+      src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" 
+      alt="Logo HTML5"
+      height="32" width="30">
+  </a>
+</div>
+
+<div style="margin: 50px">
+
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/meviniciusfreitas)](https://www.instagram.com/meviniciusfreitas)
+  [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Viniciusgfreitas)](https://github.com/Viniciusgfreitas)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-gon%C3%A7alves-freitas/)](https://www.linkedin.com/in/vinicius-gon%C3%A7alves-freitas/)
+  [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:viniciusdevgf@outlook.com)](mailto:viniciusdevgf@outlook.com)
+
+</div>
+
 <div>
   <a href="https://github.com/viniciusgfreitas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusgfreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -31,13 +75,3 @@
     alt="Logo NodeJs"
     height="32" width="32">
 </div>
-
-<div style="margin: 50px">
-
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/meviniciusfreitas)](https://www.instagram.com/meviniciusfreitas)
-  [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Viniciusgfreitas)](https://github.com/Viniciusgfreitas)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-gon%C3%A7alves-freitas/)](https://www.linkedin.com/in/vinicius-gon%C3%A7alves-freitas/)
-  [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:viniciusdevgf@outlook.com)](mailto:viniciusdevgf@outlook.com)
-
-</div>
-
