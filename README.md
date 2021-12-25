@@ -1,38 +1,7 @@
-### <h1> ✋ Hi I'm Vinicius Freitas </h1>
-<!-- Dados Pessoais / Redes sociais-->
-<div style="display: flex; flex-direction: column;">
-  <!-- Instagram -->
-  <p>
-    <a href="https://www.instagram.com/vinicius.gfreitas/">
-      <img
-        src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" 
-        alt="Logo HTML5"
-        height="32" width="30">
-    </a>
-    <strong align="center">@vinicius.gfreitas</strong>
-  </p>
-  <!-- Github -->
-  <a href="https://www.google.com/">
-    <img
-      src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" 
-      alt="Logo HTML5"
-      height="32" width="30">
-  </a>
-  <!-- Linkedin -->
-  <a href="https://www.google.com/">
-    <img
-      src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" 
-      alt="Logo HTML5"
-      height="32" width="30">
-  </a>
-   <!-- Outlook -->
-  <a href="https://www.google.com/">
-    <img
-      src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" 
-      alt="Logo HTML5"
-      height="32" width="30">
-  </a>
-</div>
+### <h1> ✋ Hi I'm Vinicius Freitas</h1>
+
+<p>:space_invader: My goal is to make the internet an easier and safer place for people.</p>
+<h3>:rocket: Follow me on social media and see my work</h3>
 
 <div style="margin: 50px">
 
