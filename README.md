@@ -1,6 +1,5 @@
-### <h1> ✋ Hi I'm Vinicius Freitas</h1>
+### <h1> ✋ Hi I'm Vinicius Freitas :space_invader: </h1>
 
-<p>:space_invader: My goal is to make the internet an easier and safer place for people.</p>
 <h3>:rocket: Follow me on social media and see my work</h3>
 
 <div style="margin: 50px">
