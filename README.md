@@ -4,7 +4,7 @@
 
 <div style="margin: 50px">
 
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/meviniciusfreitas)](https://www.instagram.com/meviniciusfreitas)
+<!--   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/meviniciusfreitas)](https://www.instagram.com/meviniciusfreitas) -->
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Viniciusgfreitas)](https://github.com/Viniciusgfreitas)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-gon%C3%A7alves-freitas/)](https://www.linkedin.com/in/vinicius-gon%C3%A7alves-freitas/)
   [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:viniciusdevgf@outlook.com)](mailto:viniciusdevgf@outlook.com)
